@@ -1,2 +1,2 @@
 # jogo-da-velha
-Repositório de um jogo da velha com html e javascript
+Repositório de um jogo da velha com html e javascript Digital Innovation One.
